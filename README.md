@@ -1,3 +1,5 @@
+<b>Exploratory Data Analysis Project 1</b>
+
 This is my repository for Course Project 1 of Coursera's course "Exploratory Data Analysis". 
 
 There are 8 files for the Course Project 1: 4 png pictures and 4 scripts to generate each
@@ -6,6 +8,9 @@ Download the data from here:
 <a href="https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip">Electric power consumption</a> [20Mb]
 
 Once you have downloaded the data. Change the file path within the scripts to the location where the data was saved. Run each script to generate each png file.
+
+
+Assignment Description:
 
 <b>Description</b>: Measurements of electric power consumption in
 one household with a one-minute sampling rate over a period of almost
