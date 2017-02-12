@@ -10,7 +10,7 @@ Download the data from here:
 Once you have downloaded the data. Change the file path within the scripts to the location where the data was saved. Run each script to generate each png file.
 
 
-Assignment Description:
+<b>Assignment Description:</b>
 
 <b>Description</b>: Measurements of electric power consumption in
 one household with a one-minute sampling rate over a period of almost
