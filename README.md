@@ -1,4 +1,5 @@
-This is my repository for the Coursera's course "Exploratory Data Analysis". Currently there are 8 files for the Course Project 1: 4 png pictures and 4 scripts to generate each.
+This is my repository for the Coursera's course "Exploratory Data Analysis". 
+There are 8 files for the Course Project 1: 4 png pictures and 4 scripts to generate each
 
 Download the data from here:
 * <b>Dataset</b>: <a href="https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip">Electric power consumption</a> [20Mb]
